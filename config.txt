@@ -36,6 +36,7 @@ setInterval(function(){
     <th>Horas</th>
     <th>Minutos</th>
     <th>Segundos</th>
+  
   </tr>
 
   </thead>
@@ -45,6 +46,7 @@ setInterval(function(){
       <td id="hora"></td>
       <td id="minutos"></td>
       <td id="segundos"></td>
+    
     </tr>
   </tbody>
 
