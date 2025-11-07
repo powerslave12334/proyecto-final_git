@@ -2,10 +2,16 @@
 
   <tbody>
 
+  <tr>
+  
+  </tr>
+
   </thead>
 
   <tbody id="resultado">
-   
+    <tr>
+    
+    </tr>
   </tbody>
 
   </table>

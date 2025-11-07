@@ -7,3 +7,16 @@ const segundos = document.getElementById("segundos");
 minutos.textContent = m;
 hora.textContent = h;
 segundos.textContent = s;
+
+setInterval(function(){
+  if (s === 59){
+  
+  }
+  if (m === 60){
+    
+  }
+  if(h === 24){
+    
+  }
+  
+}, 1000);
